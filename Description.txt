@@ -1,0 +1,1 @@
+This project is a SQL Server database for a Hotel Management System. The database schema includes tables to manage hotels, rooms, guests, reservations, employees, services, payments, room income, profit/loss, and room availability. The database also includes stored procedures and functions for specific operations such as retrieving available rooms and calculating total revenue.
